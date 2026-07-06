@@ -147,8 +147,8 @@ def format_task_tooltip(task):
 def refresh_order():
     task_records.sort(
         key=lambda item: (
-            get_priority_weight(task.get("priority", "")),
-            parse_creation_datetime(task.get("creation_date", "")),
+            get_priority_weight(item.get("prioridade", "")),
+            parse_creation_datetime(item.get("data_criacao", "")),
         )
     )
 

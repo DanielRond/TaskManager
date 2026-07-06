@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "task": "trabalho",
+    "priority": "High",
+    "description": "teste e exemplo",
+    "creation_date": "05/07/2026 22:51:08",
+    "due_date": "12/07/2026"
+  },
+  {
+    "task": "Apresentação",
+    "priority": "High",
+    "description": "exemplo de apresentação",
+    "creation_date": "05/07/2026 22:51:20",
+    "due_date": "06/07/2026"
+  },
+  {
+    "task": "Conversa",
+    "priority": "Medium",
+    "description": "exemplo conversa",
+    "creation_date": "05/07/2026 22:52:34",
+    "due_date": "06/07/2026"
+  },
+  {
+    "task": "Estudar",
+    "priority": "Medium",
+    "description": "teste estudo",
+    "creation_date": "05/07/2026 22:52:57",
+    "due_date": "04/08/2026"
+  }
+]
